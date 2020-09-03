@@ -1,2 +1,1 @@
-# hello-world
-абучение
+# hello-world       немного о себе
